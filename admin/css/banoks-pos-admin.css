@@ -491,12 +491,12 @@
 
 .banoks-pos-admin .banoks-admin-header nav a:hover {
     color: white;
-    background: #000000;
+    background: #4b5563;
 }
 
 .banoks-pos-admin .banoks-admin-header nav a.active {
     color: rgb(255, 255, 255);
-    background: #000000;
+    background: #4b5563;
 }
 
 @media screen and (max-width: 1320px) {
@@ -616,7 +616,7 @@
     .banoks-pos-admin .banoks-admin-header nav a:hover,
     .banoks-pos-admin .banoks-admin-header nav a.active {
         color: #fff;
-        background: #808080;
+        background: #64748b;
     }
 }
 

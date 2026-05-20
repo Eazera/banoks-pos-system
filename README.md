@@ -6,7 +6,7 @@ Customized WordPress POS system developed by the Eazera Team for Banoks operatio
 
 Banoks POS System is a WordPress plugin for managing in-store sales, online orders, inventory, expenses, cash balances, delivery areas, and business reports from one admin workflow.
 
-Current plugin version: `1.2.2`
+Current plugin version: `1.2.3`
 
 ## Features
 
@@ -62,7 +62,7 @@ To publish an update:
 4. Create a GitHub Release using a tag that matches the version, for example:
 
 ```text
-v1.2.2
+v1.2.3
 ```
 
 WordPress will use the latest GitHub Release to check for available plugin updates.
@@ -81,4 +81,3 @@ See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the current release summary.
 
 Eazera  
 https://Eazera.ph
-

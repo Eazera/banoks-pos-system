@@ -1,4 +1,23 @@
-# Banoks POS System v1.2.2 Release Notes
+# Banoks POS System Release Notes
+
+## v1.2.3
+
+### Summary
+
+Banoks POS System v1.2.3 is a small visual refinement release for the admin navigation.
+
+### Changes
+
+- Reduced the blackness of the admin navigation hover and active states.
+- Updated the desktop navigation hover and active background from pure black to a softer slate gray.
+- Updated the mobile navigation hover and active background to a calmer blue-gray.
+
+### Update Notes
+
+- This is a CSS-only visual update with a patch version bump.
+- Create the GitHub release using tag `v1.2.3` so WordPress can detect the update.
+
+## v1.2.2
 
 ## Summary
 
@@ -45,4 +64,3 @@ Banoks POS System v1.2.2 is the first GitHub-ready release of the Eazera-built W
 - Make sure the GitHub release tag matches the plugin version, for example `v1.2.2`.
 - For WordPress update checks to work correctly, publish this as a GitHub Release rather than only pushing source code.
 - Existing sites should back up the database before updating, especially because this release includes custom POS, order, inventory, and finance tables.
-

@@ -14,7 +14,7 @@
  * Plugin Name:       Banoks POS System
  * Plugin URI:        https://Eazera.ph
  * Description:       Customized plugin POS system developed by Eazera Team.
- * Version:           1.2.2
+ * Version:           1.2.3
  * Author:            Eazera
  * Author URI:        https://Eazera.ph
  * License:           GPL-2.0+
@@ -31,7 +31,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Currently plugin version.
  * Start at version 1.0.0 and use SemVer - https://semver.org/
  */
-define( 'BANOKS_POS_VERSION', '1.2.2' );
+define( 'BANOKS_POS_VERSION', '1.2.3' );
 define( 'BANOKS_POS_PATH', plugin_dir_path( __FILE__ ) );
 define( 'BANOKS_POS_URL', plugin_dir_url( __FILE__ ) );
 
